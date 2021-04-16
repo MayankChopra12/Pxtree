@@ -30,7 +30,7 @@ int main() {
 	cout << u.print() << endl << endl;
 	Pxtree v;
 	v = t;
-	cout << v.print() << endl;
+	cout << v.print() << endl; 
 
 	cout << "--- autoComplete ---\n";
 	cout << t.autoComplete("ba") << endl;
